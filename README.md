@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 👩🏾‍💻 I am a passionate M.Tech CS student at UNIR México, driven by a curiosity for technology and a love for train a new developers. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. Just love working at [@ideasHappy](https://www.ideashappy.com)
 
@@ -16,4 +16,5 @@
 ## 📬 Get in Touch
 
 🤖 Send me a mail to <b>alberto@ideashappy.com</b>
+
 💬 Connect with me on [X](https://twitter.com/almsx)
